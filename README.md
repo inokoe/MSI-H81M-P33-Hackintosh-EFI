@@ -23,7 +23,10 @@ MSI H81M-P33 Hackintosh-EFI, and the CPU is E3 1246 V3 ( haswell )
 + 温度正常
 + Speedtest 带宽测速正常（400Mbps+浮动，带宽满速为450Mbps）
 + 不支持HEVC硬件解码
+
+## 问题
 + 开机会卡鼠标20秒左右，之后一切正常，可能是我的SATA硬盘读取太慢了？
++ 使用VGA可能会有问题，请尽量使用DVI接口
 
 > 测试时间为 2022/7/14
 > 模拟平台为iMac14,4
